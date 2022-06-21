@@ -8,6 +8,7 @@ Skills: HTML / CSS / Java / Python / C#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarjataziz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarjataziz&show_icons=true)  
+![Sarjat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarjataziz&show_icons=true&theme=radical)
 
 ![GitHub metrics](https://metrics.lecoq.io/sarjataziz)  
 
