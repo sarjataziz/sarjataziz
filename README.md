@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sarjat
+### Hi there 👋, I'm Sarjat.
 
 Skills: HTML / CSS / Java / Python / C#
 
