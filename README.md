@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sarjat.
+### Hi there 👋, I'm Sarjat. - 🌱 I’m currently learning C# 
 
 Skills: HTML / CSS / Java / Python / C#
 
