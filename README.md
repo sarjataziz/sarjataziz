@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sarjat. 
 
 - 🌱 I’m currently learning C# 
-- 👀 I’m interested in Coding, Video editing
+- 👀 I’m interested in Coding, Anime
 
 Skills: HTML / CSS / Java / Python / C#
 
