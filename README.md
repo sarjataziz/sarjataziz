@@ -1,7 +1,16 @@
 ### Hi there 👋, I'm Sarjat. 
 
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C#.
 - 👀 I’m interested in Coding, Anime
+<!--- 
+-🔭 I’m currently working on 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with 
+- ⚡ Fun fact: 
+--->
+- 💬 Ask me about Anything
+- 📫 How to reach me: [Discord](https://discord.com/users/935890753287237673)
+- 😄 Pronouns:  He/Him
 
 Skills: HTML / CSS / Java / Python / C#
 
