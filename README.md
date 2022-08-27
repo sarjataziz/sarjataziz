@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Discord](https://discord.com/users/935890753287237673)
 - 😄 Pronouns:  He/Him
 
-Skills: HTML / CSS / Java / Python / C#
+Skills: C / C++ / Java / Python / C# / HTML / CSS  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sarjataziz)  
 
