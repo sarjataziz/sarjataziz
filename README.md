@@ -26,3 +26,4 @@ Skills: C / C++ / C# / Java / Python / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/sarjataziz)  
 
 ![Profile views](https://gpvc.arturio.dev/sarjataziz)  
+
