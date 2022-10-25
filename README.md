@@ -27,3 +27,4 @@ Skills: C / C++ / C# / Java / Python / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/sarjataziz)  
 
+
