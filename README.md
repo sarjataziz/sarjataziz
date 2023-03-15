@@ -5,11 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-*   🌍  I'm based in Dhaka
+*   🌍  I'm based in Dhaka.
 *   ✉️  You can contact me at [sarjat.aziz@gmail.com](mailto:sarjat.aziz@gmail.com)
-*   🧠  I'm learning PHP and JavaScript
-*   🤝  I'm open to collaborating on GitHub
+*   🧠  I'm learning PHP and JavaScript.
+*   🤝  I'm open to collaborating on GitHub.
 *   ⚡  I'm a huge anime fan.
+*   👀  I’m interested in Coding, Anime.
+*   😄  Pronouns:  He/Him.
 
 ![Profile views](https://gpvc.arturio.dev/sarjataziz)  
 
