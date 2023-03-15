@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarjat Aziz
 ===================================================================================================================================
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 *   🌍  I'm based in Dhaka
 *   ✉️  You can contact me at [sarjat.aziz@gmail.com](mailto:sarjat.aziz@gmail.com)
@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🤝  I'm open to collaborating on GitHub
 *   ⚡  I'm a huge anime fan.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <a href="https://www.github.com/sarjataziz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sarjataziz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/azizrumi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/azizrumi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
