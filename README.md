@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   😄  Pronouns:  He/Him.
 
 ![Profile views](https://gpvc.arturio.dev/sarjataziz)  
-<!--![Profile views](https://komarev.com/ghpvc/?username=sarjataziz) -->
+
 
 <a href="https://www.github.com/sarjataziz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sarjataziz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/azizrumi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/azizrumi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
@@ -42,3 +42,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
+![Profile views](https://komarev.com/ghpvc/?username=sarjataziz)
