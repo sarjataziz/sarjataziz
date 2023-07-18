@@ -14,8 +14,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   👀  I’m interested in coding and anime.
 *   😄  Pronouns:  He/Him.
 
-![Profile views](https://gpvc.arturio.dev/sarjataziz)  
-
+<!-- ![Profile views](https://gpvc.arturio.dev/sarjataziz)  -->
+![](https://komarev.com/ghpvc/?username=sarjataziz)
 
 <a href="https://www.github.com/sarjataziz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sarjataziz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/azizrumi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/azizrumi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
@@ -41,5 +41,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/sarjataziz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarjataziz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-![](https://komarev.com/ghpvc/?username=sarjataziz)
